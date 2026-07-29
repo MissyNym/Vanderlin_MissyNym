@@ -1163,6 +1163,12 @@
 	},
 /turf/open/floor/grass,
 /area/outdoors/town)
+"aBU" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "aBV" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/flora/ausbushes/ppflowers,
@@ -3050,6 +3056,12 @@
 /obj/structure/fluff/railing/border,
 /turf/open/floor/dirt/road,
 /area/under/town/basement)
+"bwE" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "bwG" = (
 /turf/closed/wall/mineral/decostone/center,
 /area/under/town/basement)
@@ -5921,6 +5933,13 @@
 	},
 /turf/open/floor/blocks,
 /area/outdoors/town)
+"cMD" = (
+/obj/machinery/light/fueled/wallfire/candle/blue,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 9
+	},
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "cME" = (
 /obj/structure/bed/shit,
 /turf/open/floor/dirt,
@@ -13523,6 +13542,10 @@
 /obj/structure/hotspring/border/seven,
 /turf/open/floor/grass/eora,
 /area/outdoors/eora)
+"gtD" = (
+/obj/structure/fluff/traveltile/exit_inquisition,
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "gtL" = (
 /obj/structure/fluff/railing/wood,
 /obj/structure/stairs{
@@ -18097,7 +18120,6 @@
 /turf/open/floor/greenstone,
 /area/indoors/town/keep/magician)
 "iCo" = (
-/obj/structure/fluff/traveltile/exit_inquisition,
 /turf/open/floor/grass/cold,
 /area/under/cavelava)
 "iCv" = (
@@ -30339,6 +30361,10 @@
 	},
 /turf/open/floor/metal/barograte,
 /area/under/town/basement)
+"ods" = (
+/obj/machinery/light/fueled/wallfire/candle/blue/l,
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "odt" = (
 /obj/structure/fluff/walldeco/bath/wallpipes/innie{
 	dir = 5;
@@ -32210,6 +32236,13 @@
 "oRk" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
 /turf/open/floor/church/purple,
+/area/indoors/town/church/inquisition)
+"oRl" = (
+/obj/structure/fluff/traveltile/exit_inquisition,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/turf/open/floor/cobblerock,
 /area/indoors/town/church/inquisition)
 "oRt" = (
 /obj/structure/fluff/walldeco/wantedposter{
@@ -36478,6 +36511,7 @@
 /area/indoors/town/adv_guild)
 "qNz" = (
 /obj/structure/fluff/statue/gargoyle,
+/obj/machinery/light/fueled/wallfire/candle/blue,
 /turf/open/floor/cobble,
 /area/indoors/town/church)
 "qOl" = (
@@ -37548,6 +37582,13 @@
 /obj/structure/fluff/clodpile/dirt,
 /turf/open/floor/grass/yel,
 /area/outdoors/exposed/church/graveyard)
+"rmZ" = (
+/obj/machinery/light/fueled/wallfire/candle/blue,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "rnh" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
 /turf/open/floor/ruinedwood/chevron,
@@ -40895,6 +40936,12 @@
 /obj/structure/table/wood/plain_alt,
 /turf/open/floor/ruinedwood/turned,
 /area/outdoors/town)
+"sKa" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 6
+	},
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "sKb" = (
 /obj/structure/stairs/stone/church,
 /turf/open/floor/church,
@@ -41426,6 +41473,12 @@
 	},
 /turf/open/openspace,
 /area/outdoors/river)
+"sUV" = (
+/obj/structure/lever/hidden/inquisition{
+	redstone_id = church_inq
+	},
+/turf/closed/wall/mineral/stone,
+/area/indoors/town/church/inquisition)
 "sUW" = (
 /obj/structure/chair/wood/alt,
 /turf/open/floor/ruinedwood/turned,
@@ -43880,6 +43933,12 @@
 	},
 /turf/open/floor/ruinedwood/two,
 /area/indoors/town/shop)
+"udL" = (
+/obj/structure/lever/hidden/inquisition{
+	redstone_id = church_inq
+	},
+/turf/closed/wall/mineral/stone,
+/area/indoors/town/church)
 "udX" = (
 /turf/closed/wall/mineral/wooddark/end{
 	dir = 4
@@ -45540,6 +45599,10 @@
 /obj/machinery/light/fueled/hearth,
 /turf/open/floor/cobble,
 /area/outdoors/town)
+"uNI" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/cobblerock,
+/area/indoors/town/church/inquisition)
 "uNU" = (
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/open/floor/grass/red,
@@ -48498,6 +48561,12 @@
 "vXG" = (
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town/keep/dungeoneer)
+"vXX" = (
+/obj/effect/mapping_helpers/secret_door_creator/inquisition{
+	redstone_id = church_inq
+	},
+/turf/closed/wall/mineral/stone,
+/area/indoors/town/church)
 "vYs" = (
 /obj/structure/fluff/walldeco/church/line{
 	dir = 1
@@ -130727,7 +130796,7 @@ qFx
 jPn
 jPn
 jPn
-jPn
+udL
 qNz
 wPi
 git
@@ -130925,12 +130994,12 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
+dID
+dID
+dID
+dID
 jPn
-jPn
+vXX
 jPn
 jPn
 fye
@@ -131127,12 +131196,12 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+qgA
+qgA
+qgA
+sUV
+sbQ
 jPn
 kTo
 mld
@@ -131329,12 +131398,12 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+qgA
+gFs
+gFs
+ods
+aBU
 jPn
 aKF
 kOX
@@ -131531,12 +131600,12 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+qgA
+cMD
+uNI
+uNI
+sKa
 jPn
 cES
 kOX
@@ -131733,12 +131802,12 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+qgA
+rmZ
+gFs
+gFs
+gFs
 jPn
 tbf
 kOX
@@ -131935,12 +132004,12 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+qgA
+bwE
+gFs
+eWl
+gFs
 jPn
 jPn
 jPn
@@ -132137,14 +132206,14 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+qgA
+oRl
+gtD
+qgA
+qgA
+qgA
+dID
 qFx
 qFx
 qFx
@@ -132339,14 +132408,14 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
-qFx
+dID
+dID
+mQp
+mQp
+dID
+dID
+dID
+dID
 qFx
 qFx
 qFx
@@ -132542,10 +132611,10 @@ qFx
 qFx
 qFx
 qFx
-qFx
-qFx
-qFx
-qFx
+dID
+dID
+dID
+dID
 qFx
 qFx
 qFx
