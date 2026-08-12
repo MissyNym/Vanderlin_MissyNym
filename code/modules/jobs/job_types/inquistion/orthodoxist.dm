@@ -1,8 +1,8 @@
 /datum/job/orthodoxist
 	title = JOB_SACRESTANTS
 	department_flag = INQUISITION
-	faction = "Station"
-	total_positions = 1 // TWO GOONS!!
+	factions = list(FACTION_INQUISITION, FACTION_TOWN)
+	total_positions = 1 // ONE GOON!!
 	spawn_positions = 1
 	allowed_races = list(SPEC_ID_HUMEN, SPEC_ID_DWARF)
 	bypass_lastclass = TRUE
@@ -67,3 +67,4 @@
 
 /datum/job/advclass/sacrestant
 	exp_types_granted = list(EXP_TYPE_INQUISITION, EXP_TYPE_COMBAT)
+	factions = list(FACTION_INQUISITION, FACTION_TOWN)
